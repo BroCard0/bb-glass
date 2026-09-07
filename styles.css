@@ -455,8 +455,7 @@ html {
     padding: 0.7rem 1rem;
     white-space: nowrap;
   }
-}
-.speech-bubble:hover {
+}.speech-bubble:hover {
   transform: translateY(-3px);
   background: var(--background-color);
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.3);
